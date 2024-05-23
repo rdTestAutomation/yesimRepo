@@ -1,21 +1,21 @@
 Personel:
-Kimlik:
-Ad: Yeşim
-Soyad: KAHRAMAN
-TcKimlikNo: "11122233320"
-Iletisim:
-Telefon: "+905424117342"
-Email: yesim2002@gmail.com
-Adres:
-Mahalle: Büyükceler Mah.
-Sokak: Deli Dumrul Sok.
-Numara: "12"
-Ilce: Gölbaşı
-Sehir: Ankara
-PostaKodu: "06830"
-Ulke: Türkiye
-Departman:
-Ad: Bilgi Teknolojileri
-Pozisyon: Testci
-Maas: 12000
-GirisTarihi: "2001-01-15"
+  Kimlik:
+    Ad: Yeşim
+    Soyad: KAHRAMAN
+    TcKimlikNo: "11122233320"
+  Iletisim:
+    Telefon: "+905424117342"
+    Email: yesim2002@gmail.com
+  Adres:
+    Mahalle: Büyükceler Mah.
+    Sokak: Deli Dumrul Sok.
+    Numara: "12"
+    Ilce: Gölbaşı
+    Sehir: Ankara
+    PostaKodu: "06830"
+    Ulke: Türkiye
+  Departman:
+    Ad: Bilgi Teknolojileri
+    Pozisyon: Testci
+    Maas: 12000
+    GirisTarihi: "2001-01-15"
