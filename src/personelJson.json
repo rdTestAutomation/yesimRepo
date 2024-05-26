@@ -3,7 +3,8 @@
     "Kimlik": {
       "Ad": "Yeşim",
       "Soyad": "KAHRAMAN",
-      "TcKimlikNo": "11122233320"
+      "TcKimlikNo": "11122233320",
+      "DogumYili": "1979-02-01"
     },
     "Iletisim": {
       "Telefon": "+905424117342",

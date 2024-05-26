@@ -4,12 +4,13 @@
         <Ad>Yeşim</Ad>
         <Soyad>KAHRAMAN</Soyad>
         <TcKimlikNo>11122233320</TcKimlikNo>
+        <DogumTarihi>1979-02-01</DogumTarihi>
     </Kimlik>
     <Iletisim>
         <Telefon>+905424117342</Telefon>
         <Email>yesim2002@gmail.com</Email>
         <Adres>
-            <Mahalle>Büyükceler Mah.</Mahalle>
+            <Mahalle>Büyükçeler Mah.</Mahalle>
             <Sokak>Deli Dumrul Sok.</Sokak>
             <Numara>12</Numara>
             <Ilce>Gölbaşı</Ilce>
