@@ -7,8 +7,8 @@
         <DogumTarihi>1979-02-01</DogumTarihi>
     </Kimlik>
     <Iletisim>
-        <Telefon>+905424117342</Telefon>
-        <Email>yesim2002@gmail.com</Email>
+        <Telefon>+905421001010</Telefon>
+        <Email>yesim2025@gmail.com</Email>
         <Adres>
             <Mahalle>Büyükçeler Mah.</Mahalle>
             <Sokak>Deli Dumrul Sok.</Sokak>
@@ -21,7 +21,7 @@
     </Iletisim>
     <Departman>
         <Ad>Bilgi Teknolojileri</Ad>
-        <Pozisyon>Testci</Pozisyon>
+        <Pozisyon>Test Uzmanı</Pozisyon>
         <Maas>12000</Maas>
     </Departman>
     <GirisTarihi>2001-01-15</GirisTarihi>

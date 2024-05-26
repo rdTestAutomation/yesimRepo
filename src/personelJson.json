@@ -4,13 +4,13 @@
       "Ad": "Yeşim",
       "Soyad": "KAHRAMAN",
       "TcKimlikNo": "11122233320",
-      "DogumYili": "1979-02-01"
+      "DogumTarihi": "1979-02-01"
     },
     "Iletisim": {
-      "Telefon": "+905424117342",
-      "Email": "yesim2002@gmail.com",
+      "Telefon": "+905421001010",
+      "Email": "yesim2025@gmail.com",
       "Adres": {
-        "Mahalle": "Büyükceler Mah.",
+        "Mahalle": "Büyükçeler Mah.",
         "Sokak": "Deli Dumrul Sok.",
         "Numara": "12",
         "Ilce": "Gölbaşı",
@@ -21,7 +21,7 @@
     },
     "Departman": {
       "Ad": "Bilgi Teknolojileri",
-      "Pozisyon": "Testci",
+      "Pozisyon": "Test Uzmanı",
       "Maas": 12000
     },
     "GirisTarihi": "2001-01-15"
