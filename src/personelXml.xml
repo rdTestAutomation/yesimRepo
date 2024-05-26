@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personel>
+    <Kimlik>
+        <Ad>Yeşim</Ad>
+        <Soyad>KAHRAMAN</Soyad>
+        <TcKimlikNo>11122233320</TcKimlikNo>
+        <DogumTarihi>1979-02-01</DogumTarihi>
+    </Kimlik>
+    <Iletisim>
+        <Telefon>+905421001010</Telefon>
+        <Email>yesim2025@gmail.com</Email>
+        <Adres>
+            <Mahalle>Büyükçeler Mah.</Mahalle>
+            <Sokak>Deli Dumrul Sok.</Sokak>
+            <Numara>12</Numara>
+            <Ilce>Gölbaşı</Ilce>
+            <Sehir>Ankara</Sehir>
+            <PostaKodu>06830</PostaKodu>
+            <Ulke>Türkiye</Ulke>
+        </Adres>
+    </Iletisim>
+    <Departman>
+        <Ad>Bilgi Teknolojileri</Ad>
+        <Pozisyon>Test Uzmanı</Pozisyon>
+        <Maas>12000</Maas>
+    </Departman>
+    <GirisTarihi>2001-01-15</GirisTarihi>
+</Personel>
