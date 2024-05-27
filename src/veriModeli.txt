@@ -11,9 +11,6 @@ Personel (Nesne)
         String Mahalle
         String Sokak
         String Numara
-        String Mahalle
-        String Sokak
-        String Numara
         String Ilce
         String Sehir
         String PostaKodu
