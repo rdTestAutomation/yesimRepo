@@ -7,14 +7,14 @@ Personel (Nesne)
     Iletisim (Nesne)
         String Telefon
         String Email
-    Adres (Nesne)
-        String Mahalle
-        String Sokak
-        String Numara
-        String Ilce
-        String Sehir
-        String PostaKodu
-        String Ulke
+        Adres (Nesne)
+            String Mahalle
+            String Sokak
+            String Numara
+            String Ilce
+            String Sehir
+            String PostaKodu
+            String Ulke
     Departman (Nesne)
         String Ad
         String Pozisyon
